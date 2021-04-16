@@ -1,0 +1,2 @@
+bert/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
+bert/tf_model.preproc filter=lfs diff=lfs merge=lfs -text
